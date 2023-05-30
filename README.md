@@ -1,1 +1,0 @@
-# CoA-front-end
